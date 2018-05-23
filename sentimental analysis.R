@@ -1,4 +1,4 @@
-#Sentimental Analysis on trumph speech's using nrc lexicon
+#Sentiment Analysis on trumph speech's using nrc lexicon
 library(tm)
 
 library(tidytext)
