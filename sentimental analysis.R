@@ -3,6 +3,8 @@ library(tm)
 
 library(tidytext)
 
+library(readr)
+
 library(tibble)
 
 text <- read_lines("full_speech.txt")
